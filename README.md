@@ -8,3 +8,7 @@ Este programa gera o arquivo IDListas2016-2021.txt, que contém a identificaçã
 
 ## S3.py - A partir dos dados das listas, extrai os dados dos processos que as integram.
 Este programa gera o arquivo ListasVirtuais2016-2021.txt, com as informações dos processos pautados em cada lista.
+
+O programa é disponível em Creative Commons <https://creativecommons.org/licenses/by-nc/4.0/>
+
+Desse modo, é permitida a sua utilização para uso não comercial e/ou adaptação, desde que citada a autoria.
